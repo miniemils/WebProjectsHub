@@ -176,6 +176,10 @@ body{
     animation-delay: 0.5s;
 }
 
+.home-img{
+    animation-delay: 0;
+}
+
 @keyframes scrollLeft{
     0%{
         transform: translateX(90px);
